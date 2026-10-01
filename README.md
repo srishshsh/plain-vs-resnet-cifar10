@@ -49,7 +49,6 @@ Residual models showed modestly higher peak validation accuracy at intermediate 
 
 The selected shallow plain CNN achieved a peak validation accuracy of **62.64%** and a final test accuracy of **61.56%** after learning-rate selection and extended training.
 
-The results should be interpreted within the project's constrained experimental setup, which used a from-scratch NumPy implementation without normalization, data augmentation, momentum, or adaptive optimization.
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 My contribution to the project was the creation of the technical report, including the documentation, analysis, and interpretation of the experimental setup and results.
